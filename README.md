@@ -1,0 +1,2 @@
+# Segur
+Azterketarako repo publikoa
