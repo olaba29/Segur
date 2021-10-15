@@ -1,0 +1,1 @@
+rsync -av --link-dest=/var/tmp/Backups/$(date --date=yesterday +"%F") /home/leire/Escritorio/SEGUR/lab/lab1/segurtasuna/ /var/tmp/Backups/$(date '+%F')
